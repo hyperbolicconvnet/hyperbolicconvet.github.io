@@ -1,6 +1,8 @@
 # Traffic Accident Hotspot Prediction using Graph Transformer Networks
 Traffic accidents are a major public safety concern, causing numerous fatalities and injuries. Accurate identification and prediction of traffic accident hotspots are crucial for effective planning and intervention strategies. 
-[Project site]([https://www.google.com/](https://hyperbolicconvnet.github.io/hyperbolicconvet.github.io/))
+
+[Project site](https://hyperbolicconvnet.github.io/hyperbolicconvet.github.io/)
+
 This project proposes a novel data-driven approach using Graph Transformer Networks (GTNs) to predict traffic accident hotspots, thus advancing road safety management. We extract spatial and temporal features from traffic accident datasets and construct a graph to model complex spatial dependencies. The GTNs capture intricate interactions of accident-prone locations, generating highly accurate predictions.
 
 Our method is compared with state-of-the-art techniques, showing superior precision, recall, and F1-score performance. Our approach provides valuable insights into underlying spatial patterns and contributing factors for traffic accidents, allowing better decision-making by transportation authorities and urban planners.
