@@ -1,4 +1,4 @@
-#Traffic Accident Hotspot Prediction using Graph Transformer Networks
+# Traffic Accident Hotspot Prediction using Graph Transformer Networks
 Traffic accidents are a major public safety concern, causing numerous fatalities and injuries. Accurate identification and prediction of traffic accident hotspots are crucial for effective planning and intervention strategies.
 
 This project proposes a novel data-driven approach using Graph Transformer Networks (GTNs) to predict traffic accident hotspots, thus advancing road safety management. We extract spatial and temporal features from traffic accident datasets and construct a graph to model complex spatial dependencies. The GTNs capture intricate interactions of accident-prone locations, generating highly accurate predictions.
@@ -7,7 +7,7 @@ Our method is compared with state-of-the-art techniques, showing superior precis
 
 In conclusion, our research introduces a robust framework for traffic accident hotspot prediction using GTNs, enabling targeted interventions and improved transportation systems.
 
-##Repository Contents
+## Repository Contents
 This repository contains the code for the implementation of our proposed approach for traffic accident hotspot prediction using Graph Transformer Networks. The repository consists of the following files:
 
 data_preprocessing.py: This file contains the code for preprocessing the raw traffic accident datasets and extracting the relevant features.
@@ -31,7 +31,7 @@ Run data_preprocessing.py to preprocess the raw traffic accident datasets and ex
 Run graph_construction.py to construct the graph from the preprocessed data.
 Run model_training.py to train the GTN model on the constructed graph.
 Run evaluation.py to evaluate the performance of the trained GTN model against state-of-the-art techniques.
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-##Acknowledgments
+## Acknowledgments
